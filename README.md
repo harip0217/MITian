@@ -7,4 +7,4 @@ I'm best reached via LinkedIn and I love to meet new friends! So, please feel fr
 
 
 ***Languages and Tools***
-Python R Jupyter  MySQL Sci-kit Learn Numpy Pandas Plotly Excel   Word Spreadsheets Pycharm  VSCode
+Python, R, Jupyter, MySQL, Sci-kit Learn, Numpy, Pandas, Plotly, Excel,  Word, Spreadsheets, Pycharm,  VSCode.
